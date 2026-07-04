@@ -1,0 +1,12 @@
+{
+    "client_exe":   "metin2client.exe",
+    "client_hash":  "0xD7D5A0DE",
+
+    "create_instance_pattern": "55 8B EC 53 56 8B 75 08 8B D9 57 FF 76 14",
+    "create_instance_mask":    "xxxxxxxxxxxxxx",
+    "vid_offset": 20,
+
+    "delete_instance_pattern": "80 7E 0D 00 75 2B 8B 45 08 3B 46 10 72 23 39 73 20 74 1E",
+    "delete_instance_mask":    "xxxxxxxxxxxxxxxxxxx",
+    "delete_fade_offset": 30
+}
