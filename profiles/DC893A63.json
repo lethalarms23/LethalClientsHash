@@ -1,10 +1,6 @@
 {
     "client_exe":   "metin2client.exe",
-<<<<<<<< HEAD:profiles/DC893A63.json
     "client_hash":  "0xDC893A63",
-========
-    "client_hash":  "0x5D6F486A",
->>>>>>>> 9f0b950629b1891776a3d4f9e5970a551857b89d:profiles/5D6F486A.json
 
     "create_instance_pattern": "55 8B EC 53 56 8B 75 08 8B D9 57 FF 76 14",
     "create_instance_mask":    "xxxxxxxxxxxxxx",
