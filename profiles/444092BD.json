@@ -1,6 +1,6 @@
 {
     "client_exe":   "metin2client.exe",
-    "client_hash":  "0xB886E085",
+    "client_hash":  "0x444092BD",
 
     "create_instance_pattern": "55 8B EC 53 56 8B 75 08 8B D9 57 FF 76 14",
     "create_instance_mask":    "xxxxxxxxxxxxxx",
