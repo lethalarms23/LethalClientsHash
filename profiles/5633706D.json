@@ -1,6 +1,6 @@
 {
     "client_exe":   "Azuria.exe",
-    "client_hash":  "0x7EEB9990",
+    "client_hash":  "0x5633706D",
 
     "create_instance_pattern": "55 8B EC 83 E4 F8 51 53 56 8B 75 08 8B D9 57 FF 76 1C E8 00 00 00 00",
     "create_instance_mask":    "xxxxxxxxxxxxxxxxxxx????",
